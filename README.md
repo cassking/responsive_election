@@ -9,7 +9,7 @@ This is part of an ongoing project.
 
 
 ## Contact Cassandra King
-* Twitter: [@hca55king](http://twitter.com/ca55king)
+* Twitter: [@ca55king](http://twitter.com/ca55king)
 * Portfolio and Case Studies: [workandplay.net](http://www.workandplay.net), [cassandraking.net](http://www.cassandraking.net), 
 
 
