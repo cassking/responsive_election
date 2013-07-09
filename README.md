@@ -1,56 +1,29 @@
-# [Mobile Boilerplate](http://mobileboilerplate.com/)
+# RESPONSIVE VERSION OF 'Guide to PA Supreme Elections' fixed-width site
 
-Mobile Boilerplate is a professional front-end template that helps you build
-fast and robust mobile web applications. Spend more time developing and less
-time reinventing the wheel.
-
-* Source: [https://github.com/h5bp/mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate)
-* Homepage: [http://mobileboilerplate.com](http://mobileboilerplate.com)
-* Twitter: [@h5bp](http://twitter.com/h5bp)
+This is the responsive version of an older fixed-width layout done for Widener Law. 
+This is part of an ongoing project. 
 
 
-## Quick start
-
-Clone the git repo - `git clone git://github.com/h5bp/mobile-boilerplate.git` -
-or [download it](https://github.com/h5bp/mobile-boilerplate/zipball/master)
+* RESPONSIVE VERSION: [http://www.cassandraking.net/demos/responsive/election/](http://www.cassandraking.net/demos/responsive/election/)
+* Original fixed-width site: [http://law.widener.edu/election/2007/](http://law.widener.edu/election/2007/)
 
 
-## Features
-
-* Mobile browser optimizations.
-* CSS normalizations and common bug fixes.
-* The latest Zepto.js.
-* A custom Modernizr build for feature detection and a polyfill for CSS Media
-  Queries.
-* Home page icon for Android, iOS, Nokia.
-* Cross-browser viewport optimization for Android, iOS, Mobile IE, Nokia,
-  and Blackberry.
-* Mobile IE conditional switch.
-* Better font rendering in Mobile IE.
-* iPhone web app meta.
-* INSTANT button click event.
-* Textarea autogrow plugin.
-* Hide URL bar method.
-* Prevent form zoom onfocus method.
-* Mobile site redirection.
-* Mobile bookmark bubble.
-* User Agent Detection.
-* An optimized Google Analytics snippet.
-* Apache server caching, compression, and other configuration defaults for
-  Grade-A performance.
-* Cross-domain Ajax.
-* "Delete-key friendly." Easy to strip out parts you don't need.
-* Extensive inline and accompanying documentation.
+## Contact Cassandra King
+* Twitter: [@hca55king](http://twitter.com/ca55king)
+* Portfolio and Case Studies: [workandplay.net](http://www.workandplay.net), [cassandraking.net](http://www.cassandraking.net), 
 
 
-## Documentation
+##  Information
 
-Take a look at the [documentation table of contents](/h5bp/mobile-boilerplate/blob/master/doc/README.md). This
-documentation is bundled with the project, which makes it readily available for
-offline reading and provides a useful starting point for any documentation you
-want to write about your project.
+You can see previous projects in this series:
+---------------
+* RESPONSIVE VERSION: [Responsive Envisioning a More Democratic Global System](http://www.cassandraking.net/demos/responsive/envisioning/)
+
+* Original fixed-width site: [Fixed-width Envisioning a More Democratic Global System](http://law.widener.edu/envisioning/)
+
+* RESPONSIVE VERSION: [RESPONSIVE VETERANS LAW CLINIC](http://www.cassandraking.net/demos/responsive/vetclinic/)
+
+## CREDITS
+Site built with [http://mobileboilerplate.com](http://mobileboilerplate.com)
 
 
-## Contributing
-
-Anyone and everyone is welcome to [contribute](/h5bp/mobile-boilerplate/blob/master/doc/contribute.md).
